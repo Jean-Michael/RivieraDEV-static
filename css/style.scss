@@ -1,0 +1,12 @@
+@import "compass";
+@import "compass/css3";
+@import "variables";
+
+body { 
+    padding-top: $navbar-height;
+}
+
+@import "navbar-animated";
+@import "parallax";
+@import "countdown";
+
